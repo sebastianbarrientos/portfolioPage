@@ -22,6 +22,9 @@ header{
     height: calc(100vh - 65px);
     background-color: #303030;
     color: white;
+    background-image: url(https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/JavaScript-code.jpg?itok=1Wia7hH0);
+    background-repeat: no-repeat;
+    background-size: cover;
     /* padding-top: 10%; */
 }
 .caja-central{
